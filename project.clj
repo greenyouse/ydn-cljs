@@ -1,3 +1,3 @@
-(defproject ydn-cljs "1.0.1"
-  :description "YDN tools for ClojureScript"
+(defproject com.ydn/db "1.0.3"
+  :description "YDN database tools packaged for ClojureScript"
   :url "http://dev.yathit.com/")
