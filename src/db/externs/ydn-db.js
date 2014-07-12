@@ -97,8 +97,7 @@ ydn.db.Key.prototype.toString = function() {};
  *
  * @return {string} return store name.
  */
-ydn.db.Key.pro
-totype.getStoreName = function() {};
+ydn.db.Key.prototype.getStoreName = function() {};
 
 
 /**
