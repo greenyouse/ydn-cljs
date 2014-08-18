@@ -9,7 +9,7 @@ See the YDN-DB [homepage](http://dev.yathit.com/) for more information.
 
 Add this dependency to your project.clj:
 ```clj
-[com.ydn/db "1.0.3]
+[com.ydn/db "1.0.3"]
 ```
 
 If you're going to do advanced compilation, don't forget to use the externs file:
