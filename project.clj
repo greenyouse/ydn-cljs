@@ -1,4 +1,4 @@
-(defproject com.ydn/db "1.0.3"
+(defproject com.ydn/db "1.1.2"
   :description "YDN database tools packaged for ClojureScript"
   :url "http://dev.yathit.com/"
   :license "Apache License, Version 2.0")
