@@ -6,7 +6,7 @@ features are also enabled.
 
 See the YDN-DB [homepage](http://dev.yathit.com/) for more information.
 
-## Usage
+## Installation
 
 Add this dependency to your project.clj:
 ```clj
