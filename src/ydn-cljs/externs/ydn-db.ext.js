@@ -1,6 +1,5 @@
 /**
-* @fileoverview Externs for YDN-DB 1.0.3 because javascript events don't
-*   work when YDN-DB is not compiled.
+* @fileoverview Externs for YDN-DB
 *
 * @externs
 */
